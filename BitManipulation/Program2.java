@@ -1,3 +1,7 @@
+/*Given 3 positives numbers a, b and c. Return the minimum flips required in some bits of a and b to make ( a OR b == c ). (bitwise OR operation).
+Input: a = 2, b = 6, c = 5
+Output: 3
+*/
 package BitManipulation;
 import java.io.*;
 public class Program2 {
